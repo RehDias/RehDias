@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, sou Renata Dias</h1>
+<h1 align="center">Olá 👋</h1>
 <h3 align="center">Estudante de Web desenvolvimento Full Stack na Trybe</h3>
 
-- 🌱 Estou aprendendo no momento **Cibersegurança**
+- 🌱 Estou aprendendo no momento **Python**
 
 - 📫 E-mail **renata_dias96@live.com**
 
