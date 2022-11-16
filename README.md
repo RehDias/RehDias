@@ -36,8 +36,8 @@
 <p>-----------------------------------------------------------------------------------------------------------------------</p>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=RehDias&show_icons=true&theme=merko" width=430 height=150 />&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehDias&layout=compact&theme=merko" width=480 height=150/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RehDias&show_icons=true&theme=merko" width=400 height=150 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehDias&layout=compact&theme=merko" width=450 height=150/>
 </div>
 
 <p>-----------------------------------------------------------------------------------------------------------------------</p>
