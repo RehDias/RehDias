@@ -9,7 +9,7 @@
 <p>Sou uma pessoa apaixonada por tecnologia, mundo geek e jogos, sempre procurando me desenvolver e evoluir, tendo essa curiosidade de sempre querer aprender mais. Meus hobbies consiste em montar quebra-cabeças, escutar música, assistir lives de jogos, séries, filmes e jogar no computador.</p>
 
 
-<p>-----------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h3>👩🏽‍💻 Linguagens e ferramentas:</h3>
 
@@ -33,20 +33,20 @@
 <a href="https://sequelize.org"><img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" /></a>
 
 
-<p>-----------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=RehDias&show_icons=true&theme=merko" width=350 height=150 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehDias&layout=compact&theme=merko" width=400 height=150/>
 </div>
 
-<p>-----------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fmkcoe89ne7tshv4vqn646na0&count=2)
 &nbsp;&nbsp;
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&redirect=true)
 
-<p>-----------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <p>Imagem criada por Ana Marques</p>
 <a href="https://www.linkedin.com/in/ana-marques-5ba831232/" target="_blank" rel="noreferrer noopener"><img height="28" width="28" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;&nbsp;
