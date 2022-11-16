@@ -43,7 +43,7 @@
 <p>-----------------------------------------------------------------------------------------------------------------------</p>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fmkcoe89ne7tshv4vqn646na0&count=2)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&redirect=true)
 
 <p>-----------------------------------------------------------------------------------------------------------------------</p>
