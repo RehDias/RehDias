@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/renatadias-deoliveira/" target="_blank" rel="noreferrer noopener"><img height="28" width="28" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;&nbsp;
 <a href="mailto:renata_dias96@live.com"><img height="28" width="28" src="https://cdn.simpleicons.org/gmail" /></a>
-<p>-----------------------------------------------------------------------------------------------------------------------</p>
+<p>------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h3>🏳️‍🌈 Sobre mim:</h3>
 <p>Sou uma pessoa apaixonada por tecnologia, mundo geek e jogos, sempre procurando me desenvolver e evoluir, tendo essa curiosidade de sempre querer aprender mais. Meus hobbies consiste em montar quebra-cabeças, escutar música, assistir lives de jogos, séries, filmes e jogar no computador.</p>
