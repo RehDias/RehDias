@@ -24,6 +24,7 @@
 <a href="https://www.mysql.com"><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></a>&nbsp;
 <a href="https://www.mongodb.com"><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></a>&nbsp;
 <a href="https://nodejs.org/en/"><img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /></a>&nbsp;
+<a href="https://expressjs.com/pt-br/"><img height="32" width="32" src="https://cdn.simpleicons.org/express/gray" /></a>
 <a href="https://mochajs.org"><img height="32" width="32" src="https://cdn.simpleicons.org/mocha" /></a>&nbsp;
 <a href="https://www.chaijs.com"><img height="32" width="32" src="https://cdn.simpleicons.org/chai" /></a>&nbsp;
 <a href="https://sinonjs.org"><img height="32" width="32" src="https://user-images.githubusercontent.com/91297277/202040213-39fb031f-ad1f-4bb6-9b37-645a5002471e.png" /></a>&nbsp;
