@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=30&duration=4000&pause=1000&color=82F711&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+sou+Renata+Dias+desenvolvedora+web+back-end+jr+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=30&duration=4000&pause=1000&color=82F711&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+sou+Renata+Dias+desenvolvedora+back-end+jr+%F0%9F%92%BB" alt="Typing SVG" /></a>
 ![Untitled design](https://user-images.githubusercontent.com/91297277/202051532-93ead52a-33ce-4400-a745-f9dcccb00d08.png)
 
 <a href="https://www.linkedin.com/in/renatadias-deoliveira/" target="_blank" rel="noreferrer noopener"><img height="28" width="28" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;&nbsp;
