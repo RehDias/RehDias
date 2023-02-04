@@ -38,11 +38,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehDias&layout=compact&theme=merko" width=400 height=150/>
 </div>
 
+<br>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fmkcoe89ne7tshv4vqn646na0&count=2)
-&nbsp;&nbsp;
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&redirect=true)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fmkcoe89ne7tshv4vqn646na0&count=5&width=800)
 
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile&width=800)
+
+<br>
 
 <p>Imagem criada por Ana Marques</p>
 <a href="https://www.linkedin.com/in/ana-marques-5ba831232/" target="_blank" rel="noreferrer noopener"><img height="28" width="28" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;&nbsp;
