@@ -5,7 +5,7 @@
 <a href="mailto:renata_dias96@live.com"><img height="28" width="28" src="https://cdn.simpleicons.org/gmail" /></a>
 
 <h3>🏳️‍🌈 Sobre mim:</h3>
-<p>Sou uma pessoa apaixonada por tecnologia, mundo geek e jogos, sempre procurando me desenvolver e evoluir, tendo essa curiosidade de sempre querer aprender mais. Meus hobbies consiste em montar quebra-cabeças, escutar música, assistir lives de jogos, séries, filmes e jogar no computador.</p>
+<p>Sou uma pessoa apaixonada por tecnologia, mundo geek e jogos, sou estudante de engenharia de software na UniCV e formada em desenvolvimento web na Trybe, estou sempre procurando me desenvolver e evoluir, tendo essa curiosidade de sempre querer aprender mais. Meus hobbies consiste em montar quebra-cabeças, escutar música, assistir lives de jogos, séries, filmes e jogar no computador.</p>
 
 
 
