@@ -5,8 +5,12 @@
 <a href="mailto:renata_dias96@live.com"><img height="28" width="28" src="https://cdn.simpleicons.org/gmail" /></a>
 
 <h3>🏳️‍🌈 Sobre mim:</h3>
-<p>Sou uma pessoa apaixonada por tecnologia, mundo geek e jogos, sou estudante de engenharia de software na UniCV e formada em desenvolvimento web na Trybe, estou sempre procurando me desenvolver e evoluir, tendo essa curiosidade de sempre querer aprender mais. Meus hobbies consiste em montar quebra-cabeças, escutar música, assistir lives de jogos, séries, filmes e jogar no computador.</p>
+<p>Sou uma pessoa apaixonada por tecnologia, mundo geek e jogos, sou estudante de engenharia de software na UniCV e formada em desenvolvimento web na Trybe, estou sempre procurando me desenvolver e evoluir, tendo essa curiosidade de sempre querer aprender mais. Meus hobbies consiste em montar quebra-cabeças, escutar música, assistir lives de jogos, séries, filmes e jogar no computador.</p>&nbsp;
 
+<h3><img src="https://github.com/RehDias/RehDias/assets/91297277/2eb710da-8eb1-4d22-b42b-7ee3b52be18a" alt="icon learning" width=30px/>  
+Aprendendo:</h3>
+<p><a href="https://flutter.dev/"><img src="https://github.com/RehDias/RehDias/assets/91297277/06b8f65f-918f-4b12-bb38-4322a72aab0c" alt="flutter logo" width=30px /></a> Mobile com Flutter - Bootcamp da Santander na DIO</p>
+<p><a href="https://docs.oracle.com/en/java/"><img src="https://github.com/RehDias/RehDias/assets/91297277/a89e39f2-6c69-472b-8209-cb2df761090d" alt="java logo" width=30px /></a>  Java - Trybe</p>&nbsp;
 
 
 <h3>👩🏽‍💻 Linguagens e ferramentas:</h3>
