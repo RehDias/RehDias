@@ -15,7 +15,7 @@ Sobre mim:</h3>
 <h3><img src="https://github.com/RehDias/RehDias/assets/91297277/2eb710da-8eb1-4d22-b42b-7ee3b52be18a" alt="icon learning" width=30px hspace="15" />  
 Aprendendo:</h3>
 <br>
-<p><a href="https://docs.oracle.com/en/java/"><img src="https://github.com/RehDias/RehDias/assets/91297277/a89e39f2-6c69-472b-8209-cb2df761090d" alt="java logo" width=30px hspace="5" /></a>  Java - Trybe</p>
+<p><a href="https://www.betrybe.com"><img src="https://github.com/RehDias/RehDias/assets/91297277/a89e39f2-6c69-472b-8209-cb2df761090d" alt="java logo" width=30px hspace="5" /></a>  Java - Trybe</p>
 <p><a href="https://skillsforall.com/pt/course/endpoint-security?courseLang=pt-BR"><img src="https://github.com/RehDias/RehDias/assets/91297277/c388c758-179d-4986-af02-2e33edd33acb" alt="lock logo" width=30px hspace="5" /></a>  Segurança de endpoint - Cisco</p>
 <p><a href="https://skillsforall.com/pt/course/networking-basics?courseLang=pt-BR"><img src="https://github.com/RehDias/RehDias/assets/91297277/29c88e8d-3492-43bb-b956-77c322392a8d" alt="ethernet cable logo" width=30px hspace="5" /></a>  Conceitos básicos de redes - Cisco</p>
 <br>
