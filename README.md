@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=1000&color=82F711&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+sou+Renata+Dias+estudante+de+engenharia+de+software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=1000&color=82F711&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+sou+Renata+Dias+desenvolvedora+Web" alt="Typing SVG" /></a>
 
 <img src="https://github.com/RehDias/RehDias/assets/91297277/070f70d4-dcac-481c-b8e8-1b29c0d352c2" alt="image of a computer sayng hello world" width="400" height="350" align="left" hspace="5" />&nbsp;&nbsp; 
 
@@ -17,7 +17,7 @@ Aprendendo:</h3>
 <br>
 <p><a href="https://docs.oracle.com/en/java/"><img src="https://github.com/RehDias/RehDias/assets/91297277/a89e39f2-6c69-472b-8209-cb2df761090d" alt="java logo" width=30px hspace="5" /></a>  Java - <a href="https://www.betrybe.com"> Trybe</a></p>
 <p><a href="https://skillsforall.com/pt/course/endpoint-security?courseLang=pt-BR"><img src="https://github.com/RehDias/RehDias/assets/91297277/c388c758-179d-4986-af02-2e33edd33acb" alt="lock logo" width=30px hspace="5" /></a>  Segurança de endpoint - <a href="https://skillsforall.com/pt/"> Cisco </a></p>
-<p><a href="https://skillsforall.com/pt/course/networking-basics?courseLang=pt-BR"><img src="https://github.com/RehDias/RehDias/assets/91297277/29c88e8d-3492-43bb-b956-77c322392a8d" alt="ethernet cable logo" width=30px hspace="5" /></a>  Conceitos básicos de redes - <a href="https://skillsforall.com/pt/"> Cisco </a></p>
+
 <br>
 
 <h3><img src="https://github.com/RehDias/RehDias/assets/91297277/e2db7ecd-fce9-4a37-ac6d-971d11c9a5b1" alt="icon code" width=38px hspace="15" /> 
@@ -40,8 +40,9 @@ Linguagens e ferramentas:</h3>
 <a href="https://sinonjs.org"><img height="32" width="32" src="https://user-images.githubusercontent.com/91297277/202040213-39fb031f-ad1f-4bb6-9b37-645a5002471e.png" /></a>&nbsp;
 <a href="https://www.docker.com"><img height="32" width="32" src="https://cdn.simpleicons.org/docker" /></a>&nbsp;
 <a href="https://www.postman.com"><img height="32" width="32" src="https://cdn.simpleicons.org/postman" /></a>&nbsp;
-<a href="https://code.visualstudio.com"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /></a>&nbsp;
-<a href="https://sequelize.org"><img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" /></a>
+<a href="https://code.visualstudio.com"><img height="32" width="32" src="https://github.com/user-attachments/assets/75b09be5-3be9-454b-86a2-1429670faf00" /></a>&nbsp;
+<a href="https://sequelize.org"><img height="32" width="32" src="https://cdn.simpleicons.org/sequelize" /></a>&nbsp;
+<a href="https://docs.oracle.com/en/java/"><img height="32" width="32" src="https://github.com/user-attachments/assets/2d16f2b4-1abf-41b1-a021-8ae8177c6bc8" /></a>
 <br>
 <br>
 <br>
@@ -49,10 +50,6 @@ Linguagens e ferramentas:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=RehDias&show_icons=true&theme=merko" width=350 height=150 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehDias&layout=compact&theme=merko" width=400 height=150/>
 </div>
-
-<br>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fmkcoe89ne7tshv4vqn646na0&redirect=true)
 
 <br>
 
