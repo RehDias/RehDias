@@ -16,8 +16,6 @@ Sobre mim:</h3>
 Aprendendo:</h3>
 <br>
 <p><a href="https://docs.oracle.com/en/java/"><img src="https://github.com/RehDias/RehDias/assets/91297277/a89e39f2-6c69-472b-8209-cb2df761090d" alt="java logo" width=30px hspace="5" /></a>  Java - <a href="https://www.betrybe.com"> Trybe</a></p>
-<p><a href="https://skillsforall.com/pt/course/endpoint-security?courseLang=pt-BR"><img src="https://github.com/RehDias/RehDias/assets/91297277/c388c758-179d-4986-af02-2e33edd33acb" alt="lock logo" width=30px hspace="5" /></a>  Segurança de endpoint - <a href="https://skillsforall.com/pt/"> Cisco </a></p>
-
 <br>
 
 <h3><img src="https://github.com/RehDias/RehDias/assets/91297277/e2db7ecd-fce9-4a37-ac6d-971d11c9a5b1" alt="icon code" width=38px hspace="15" /> 
