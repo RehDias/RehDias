@@ -2,13 +2,13 @@
 
 <img src="https://github.com/RehDias/RehDias/assets/91297277/070f70d4-dcac-481c-b8e8-1b29c0d352c2" alt="image of a computer sayng hello world" width="400" height="350" align="left" hspace="5" />&nbsp;&nbsp; 
 
-<h3><img src="https://github.com/RehDias/RehDias/assets/91297277/beb41ab5-cc9b-4b1e-9862-a5518974ace9" alt="icon lgbt flag" width=30px hspace="15" /> 
+<h3><img src="https://github.com/user-attachments/assets/fc63edc7-daf4-4b7e-b3bf-4fc24a272a69" alt="icon lgbt flag" width=30px hspace="15" /> 
 Sobre mim:</h3>
 <br>
 <p align="justify">Sou uma pessoa apaixonada por tecnologia, mundo geek e jogos, sou estudante de engenharia de software na UniCV e formada em desenvolvimento web na Trybe, estou sempre procurando me desenvolver e evoluir, tendo essa curiosidade de sempre querer aprender mais. Meus hobbies consiste em montar quebra-cabeças, escutar música, assistir lives de jogos, séries, filmes e jogar.</p>&nbsp;
 <br>
-<a href="https://www.linkedin.com/in/renatadias-deoliveira/" target="_blank" rel="noreferrer noopener"><img height="25" width="25" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;&nbsp;
-<a href="mailto:renata_dias96@live.com"><img height="25" width="25" src="https://cdn.simpleicons.org/gmail" /></a>
+<a href="https://www.linkedin.com/in/renatadias-deoliveira/" target="_blank" rel="noreferrer noopener"><img height="30" width="30" src="https://github.com/user-attachments/assets/34fcc16d-3e16-4faf-a7ae-d9f0cebfaf20" /></a>&nbsp;&nbsp;
+<a href="mailto:renata_dias96@live.com"><img height="30" width="30" src="https://github.com/user-attachments/assets/6eb0a4d9-af1d-4ce9-afbb-6f621bca4451" /></a>
 <br>
 <br>
 
