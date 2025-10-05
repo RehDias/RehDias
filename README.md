@@ -18,7 +18,9 @@ Sobre mim:</h3>
 <h3><img src="https://github.com/RehDias/RehDias/assets/91297277/2eb710da-8eb1-4d22-b42b-7ee3b52be18a" alt="icon learning" width=30px hspace="15" />  
 Aprendendo:</h3>
 <br>
-<p><a href="https://aws.amazon.com/pt/certification/certification-prep/"><img src="https://github.com/user-attachments/assets/6d00d4f8-820a-4d3b-bbf9-88d6123904b2" alt="aws logo" width=30px hspace="5" /></a>  AWS - <a href="https://web.dio.me/home"> DIO</a> Santander Code Girls</p>
+<p><a href="https://aws.amazon.com/pt/certification/certification-prep/"><img src="https://github.com/user-attachments/assets/6d00d4f8-820a-4d3b-bbf9-88d6123904b2" alt="aws logo" width=30px hspace="5" /></a>  AWS - <a href="https://web.dio.me/home"> DIO</a> (Santander Code Girls)</p>
+
+<p><img src="https://github.com/user-attachments/assets/62a7fe47-aaf8-456d-8239-3dcee6c01944" alt="" width=30px hspace="5" /> Gerencia de projeto em TI e metodologias ágeis - <a href="https://unicv.edu.br/"> UniCV</a> (Centro Universitario de Cidade Verde)</p>
 
 <br>
 
