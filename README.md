@@ -90,4 +90,4 @@ Certificação Python - <a href="https://betrybe.com//">Trybe</a>
 
 <br><br>
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=fmkcoe89ne7tshv4vqn646na0&count=5&width=700)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=fmkcoe89ne7tshv4vqn646na0&theme=transparent&width=850)
