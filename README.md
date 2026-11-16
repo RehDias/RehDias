@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=1000&color=82F711&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+sou+Renata+Dias+desenvolvedora+Web" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=1000&color=82F711&center=true&vCenter=true&width=1000&height=100&lines=Ol%C3%A1%2C+sou+Renata+Dias+engenheira+de+software" />
 </a>
 
 <br><br>
@@ -13,7 +13,7 @@
 
 ### 🧠 Sobre mim:
 <p align="justify">
-Sou estudante de Engenharia de Software e formada em Desenvolvimento Web. Busco evoluir constantemente aplicando meus conhecimentos em projetos. Nos momentos livres, gosto de montar quebra-cabeças, jogar e acompanhar séries e lives.
+Sou desenvolvedora Web Full Stack e estudante de Engenharia de Software. Gosto de aprender coisas novas, explorar tecnologias e transformar ideias em projetos. Atualmente, tenho direcionado meus estudos para desenvolvimento backend e Inteligência Artificial. Fora do código, gosto de quebra-cabeças, jogos, séries e lives.
 </p>
 
 
@@ -34,12 +34,18 @@ Sou estudante de Engenharia de Software e formada em Desenvolvimento Web. Busco 
 
 <img src="https://github.com/user-attachments/assets/62a7fe47-aaf8-456d-8239-3dcee6c01944" width="20" />
 &nbsp;
-Cálculo diferencial e UX - <a href="https://unicv.edu.br/">UniCV</a>
+Business Intelligence e internet das coisas - <a href="https://unicv.edu.br/">UniCV</a>
 <br><br>
 
 <img src="https://github.com/user-attachments/assets/0666c532-47ab-41c9-80f4-0e287a779a96" width="20" />
 &nbsp;
 Certificação android (Kotlin) - <a href="https://betrybe.com//">Trybe</a>
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/0666c532-47ab-41c9-80f4-0e287a779a96" width="20" />
+&nbsp;
+Certificação Python - <a href="https://betrybe.com//">Trybe</a>
+
 
 ---
 
